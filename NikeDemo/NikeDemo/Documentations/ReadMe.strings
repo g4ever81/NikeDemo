@@ -1,0 +1,30 @@
+/* 
+  ReadMe.strings
+  NikeDemo
+
+  Created by Gaurav Mehta on 12/15/19.
+  Copyright © 2019 Gaurav Mehta. All rights reserved.
+*/
+
+Project : Nike Demo (Code Challenges)
+
+App Name : Nike Demo
+
+Technology/Tool : Xcode 11.2.1, Support Swift 5.0
+
+Support : All iPhone Device
+
+Orientation : Portrait
+
+Project Structure :
+1) Album List Class,
+2) Album Detail Class,
+3) Web-service Manager Class,
+4) Web-service Base Class,
+6) Extension Class,
+7) Model Class
+8) Reachability Class
+9) Documentation Files (ReadMe, Screenshot)
+
+Project :
+-> The project developed using native iOS Framework. There is no any 3rd Party Framework/Dependency.
